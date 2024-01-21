@@ -1,2 +1,3 @@
 # SimpleQuiz
-Open the index file to run the project
+This is the project of Simple Quiz Using HTML, CSS , Bootstarp, Javascript.
+
